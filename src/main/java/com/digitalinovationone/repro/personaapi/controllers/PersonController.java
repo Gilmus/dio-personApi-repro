@@ -1,5 +1,5 @@
 
-package com.digitalinivationone.repro.personaapi.controller;
+package com.digitalinovationone.repro.personaapi.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
