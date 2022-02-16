@@ -1,4 +1,4 @@
-package com.digitalinivationone.repro.personaapi;
+package com.digitalinnovationone.repro.personaapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
